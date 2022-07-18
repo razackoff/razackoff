@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
+</div>
+
 <!--
 **razackoff/razackoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
