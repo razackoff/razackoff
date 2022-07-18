@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
 </div>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/razackoff">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/razackoff/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
