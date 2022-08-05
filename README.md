@@ -32,7 +32,7 @@
 
 - :zap: In my free time, I solve problems on Codeforces and read tech articles.
 
-- 🔭 I’m currently working for an online store.
+- 🔭 I’m currently working on online store.
   
 <!--
 **razackoff/razackoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
