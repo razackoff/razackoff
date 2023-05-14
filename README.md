@@ -40,6 +40,7 @@
 * ***MONGO DB*** - E-COMMERCE-APP
 <!-- -->
 * ***BOOTSTRAP*** - Все проекты были сделаны в Bootstrap
+* ***POSTGRESQL*** - ORM.Postgres
 
 ### Социальные сети
 
