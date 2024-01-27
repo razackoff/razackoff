@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **Auth Web App**
 
 - 🌱 I’m currently learning **Backend**
+- 🎯 I'm currently solving problems on the **LeetCode**
 
 - 💬 Ask me about **Android , C# , .Net**
 
