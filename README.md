@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
   
-- 🎯 I'm currently solving problems on the **LeetCode**
+- 🎯 I'm currently solving problems on the <a href="https://leetcode.com/razakovdev" target="blank">**LeetCode**</a>
 
 - 💬 Ask me about **Android , C# , .Net**
 
