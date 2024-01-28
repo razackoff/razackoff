@@ -36,7 +36,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razackoff&&theme=tokyonight" alt="razackoff" /></p>
 
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/razakovdev?theme=dark&font=ABeeZee&ext=heatmap" alt="razackoff" /></p>
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/razakovdev?theme=dark&font=Spline%20Sans&ext=heatmap" alt="razackoff" /></p>
 
 
 
