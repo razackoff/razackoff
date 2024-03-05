@@ -13,7 +13,7 @@
   
 - 🎯 I'm currently solving problems on the <a href="https://leetcode.com/razakovdev" target="blank">**LeetCode**</a>
 
-- 💬 Ask me about **Android , C# , .Net**
+- 💬 Ask me about **IT**
 
 - 📫 How to reach me **razakovdev@gmail.com**
 
