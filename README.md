@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Auth Web App**
   
-- [Ссылка на мое резюме](Firuz Razakov Software Developer.pdf)
+- <a href="https://github.com/razackoff/razackoff/blob/main/Firuz%20Razakov%20Software%20Developer.pdf" target="blank">**Link to my resume**</a>
   
 - 🌱 I’m currently learning **Backend**
   
