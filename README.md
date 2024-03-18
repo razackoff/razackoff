@@ -8,7 +8,9 @@
 <p align="left"> <a href="https://twitter.com/razackoff" target="blank"><img src="https://img.shields.io/twitter/follow/razackoff?logo=twitter&style=for-the-badge" alt="razackoff"  </p>
 
 - 🔭 I’m currently working on **Auth Web App**
-
+  
+- [Ссылка на мое резюме](Firuz Razakov Software Developer.pdf)
+  
 - 🌱 I’m currently learning **Backend**
   
 - 🎯 I'm currently solving problems on the <a href="https://leetcode.com/razakovdev" target="blank">**LeetCode**</a>
